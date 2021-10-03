@@ -1,0 +1,4 @@
+baseURL = 'https://icodeit.org'
+languageCode = 'en-us'
+title = 'Code and Life'
+theme= "PaperMod"
