@@ -9,7 +9,7 @@ Categories = ["JavaScript", "Frontend"]
 
 这篇文章将讨论如何编写一个简单的jQuery插件的基本步骤和实践，最后完成的时候，我们会得到一个管理todo的插件（而且还是一个比较灵活，易于定制的todo插件）。事实上，这个插件可以工作在所有与管理todo类似的应用场景中，比如gmail的搜索框中的token等，豆瓣读书里的tags管理等等。
 
-![默认设置](http://abruzzi.github.com/images/2013/07/todo-origin.resized.png)
+![默认设置](/images/2013/07/todo-origin.resized.png)
 
 上例中HTML结构如下：
 
@@ -46,7 +46,7 @@ $("#thing-input").todoify({
 });
 ```
 
-![Item定制](http://abruzzi.github.com/images/2013/07/todo-customized.resized.png)
+![Item定制](/images/2013/07/todo-customized.resized.png)
 
 ### jQuery插件基础知识
 

@@ -34,7 +34,7 @@ Tags = []
 </div>
 ```
 
-![image](http://abruzzi.github.com/images/2013/02/jquery-mobile-page.png)
+![image](/images/2013/02/jquery-mobile-page.png)
 
 ####多个页面
 
@@ -60,7 +60,7 @@ Tags = []
 <a href="#edit-page">Go to edit page</a>
 ```
 
-![image](http://abruzzi.github.com/images/2013/02/jquery-mobile-multi-page.png)
+![image](/images/2013/02/jquery-mobile-multi-page.png)
 
 ####列表元素
 
@@ -75,9 +75,9 @@ Tags = []
 </ul>
 ```
 
-![image](http://abruzzi.github.com/images/2013/02/jquery-mobile-list.png)
+![image](/images/2013/02/jquery-mobile-list.png)
 
 ###一个小例子
 我在最近的一个开源项目[feather](https://github.com/abruzzi/feather)中使用了jQuery Mobile来完成ios上的展现。
 
-![image](http://abruzzi.github.com/images/2013/02/feather-mobile.png)
+![image](/images/2013/02/feather-mobile.png)

@@ -80,7 +80,7 @@ plt.show()
 ```
 通过使用matplotlib的绘图功能，将make_random_data生成的点通过图形的方式展现，效果更加直观，图中的两个点集分别表示两个不同的类别。
 
-![image](http://abruzzi.github.com/images/2013/01/gauss-distribution-resized.png)
+![image](/images/2013/01/gauss-distribution-resized.png)
 
 ####KNN
 
@@ -117,4 +117,4 @@ print fitter((4, 2))
 
 图中的两个红色的点分别为P1(-3, 1)和P2(4, 2)。它们都已经被正确的分类。
 
-![image](http://abruzzi.github.com/images/2013/01/knn-plant-resized.png)
+![image](/images/2013/01/knn-plant-resized.png)

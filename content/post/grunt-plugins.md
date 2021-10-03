@@ -56,7 +56,7 @@ grunt.loadNpmTasks('grunt-karma');
 grunt.registerTask('default', ['jshint', 'karma']);
 ```
 
-![image](http://abruzzi.github.com/images/2013/10/grunt-karma-resized.png)
+![image](/images/2013/10/grunt-karma-resized.png)
 
 
 注意此处的default后边带了一个任务数组，其中每个任务会按照声明的顺序依次被执行。事实上此处的'default'是后边整个列表的一个别名(alias)。

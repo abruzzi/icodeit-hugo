@@ -247,7 +247,7 @@ Person:
 
 预期的运行结果应当是：
 
-![image](http://abruzzi.github.com/images/2013/12/rspec.png)
+![image](/images/2013/12/rspec.png)
 
 #### 基于这个spec的进一步实现
 

@@ -15,7 +15,7 @@ Categories = ["thoughtworks", "learn"]
 
 杜虎符为1973年在西安南郊出土的，年代大约为战国时期，但是应在秦朝统一六国之前。
 
-![image](http://abruzzi.github.com/images/2013/04/jscp-conver.jpg)
+![image](/images/2013/04/jscp-conver.jpg)
 
 铭文为：
 
@@ -30,7 +30,7 @@ Categories = ["thoughtworks", "learn"]
 
 阳陵虎符相传在山东临城出土，由于铭文中有“皇帝”字样，时代当为秦统一六国之后。
 
-![image](http://abruzzi.github.com/images/2013/04/yangling-tiger-seal.resized.jpg)
+![image](/images/2013/04/yangling-tiger-seal.resized.jpg)
 
 铭文为：
 	

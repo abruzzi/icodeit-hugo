@@ -15,7 +15,7 @@ Categories = ["yahoo", "tools", "ThoughtWorks"]
 
 之前郑晔做了一个[金数据](https://jinshuju.net/)的统计，请各位同事把自己的名字和博客地址登记在一个金数据的表单上：
 
-![image](http://abruzzi.github.com/images/2014/01/blog-colllecting.png)
+![image](/images/2014/01/blog-colllecting.png)
 
 接下来第一步就是把网页上的所有地址取下来，这一步很容易，从金数据的页面上用jQuery找到表格的第二列，然后将其中的文字取出来：
 
@@ -73,23 +73,23 @@ page.open(url, function (status) {
 
 yahoo pipes提供的编辑器非常简单易用：
 
-![image](http://abruzzi.github.com/images/2014/01/single-pipe.png)
+![image](/images/2014/01/single-pipe.png)
 
 而且在编辑界面底下有一个预览界面：
 
-![image](http://abruzzi.github.com/images/2014/01/single-preview.png)
+![image](/images/2014/01/single-preview.png)
 
 当然，当定义好完整的pipe之后，我们的ThoughtWorks好声音的源看起来是这样的：
 
-![image](http://abruzzi.github.com/images/2014/01/tvot-pipe-resized.png)
+![image](/images/2014/01/tvot-pipe-resized.png)
 
 运行这个pipe之后，得到一个preview的界面：
 
-![image](http://abruzzi.github.com/images/2014/01/tvot-pipe-run-resized.png)
+![image](/images/2014/01/tvot-pipe-run-resized.png)
 
 最后，可以将这个pipe公开发布，或者将这个pipe生成的rss订阅到阅读器中，比如[vienna](http://www.vienna-rss.org/):
 
-![image](http://abruzzi.github.com/images/2014/01/vienna-resized.png)
+![image](/images/2014/01/vienna-resized.png)
 
 然后就可以一目了然的看到最近有哪些ThoughtWorker更新了自己的博客，又有那些是P2相关的，可以`理论上`减轻我们编辑很多的工作量。
 

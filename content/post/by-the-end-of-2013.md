@@ -18,13 +18,13 @@ Categories = ["年结", "ThoughtWorks"]
 
 我觉得挺有道理，8月去印度参加TWU，当然有很多困难了，比如语言问题本身；和其他国家来的trainer一起交流的问题；给一群来自世界各地的学生用英文上课的问题；我周五从项目上下来，周六飞去印度普内，周日早上到达休息了半天，然后周三就要给其他国家的trainer用英文讲一个关于社会公正的演讲，而且形式限定在[pecha kucha](http://www.pechakucha.org/)上，在这种压力下，我不止一次的后悔为什么把自己逼的这么紧？我的真实想法是把胡凯踢到水里学游泳，我自己回西安的项目继续每天做story。
 
-![image](http://abruzzi.github.com/images/2013/12/twu-prepare-resized.png)
+![image](/images/2013/12/twu-prepare-resized.png)
 
 但是周三过去了，我的演讲虽然也不至于震惊四座，但是不论是英文，还是主题，还是演讲技巧本身，都得到了比较正常的feedback。我存活了下来！
 
 如果说这个小范围的，面向trainer的，带有彩排性质的演讲的压力值为100的话，那么下一周，面对着二十多个来自世界各地的毕业生，给他们讲一个关于如何给别人feedback的session，压力值至少为500+。即使是来自墨尔本、伦敦、巴西的trainer都开始表情凝重的备课，我自己的心情就更不用说了。还有人开导我说，不论你有多紧张，坐在底下的那些家伙都比你紧张100倍。
 
-![image](http://abruzzi.github.com/images/2013/12/twu-discuss-resized.png)
+![image](/images/2013/12/twu-discuss-resized.png)
 
 我清楚的记得，第一天结束后，我们互相击掌，还去酒吧喝了一杯来庆祝，当然，8点就赶紧撤回住处，准备第二天的session了，但是不管怎样，我又一次的存活下来了！
 
@@ -51,15 +51,15 @@ Categories = ["年结", "ThoughtWorks"]
 
 今年的12月中旬，我从RCA项目上正式Roll off，从2012年4月加入ThoughtWorks之后，就一直在这个项目上。在这个项目上主要关注在软件交付上，和所有的BAU项目一样，在RCA，能学到一个成熟的框架是怎么实实在在运行的，从开发，测试，仿真，生产环境都是通的，如果有心的话，可以接触到自动部署，负载均衡，数据库的主备配置，各级缓存等生产上才会遇到的问题，但是很多时候又会比较无聊，因为可能更多的是在做老代码的维护，bug的修复，新功能的开发可能较少。
 
-![image](http://abruzzi.github.com/images/2013/12/rca-family-resized.png)
+![image](/images/2013/12/rca-family-resized.png)
 
 RCA总的来说，有经验的人居多，所以交付压力来说要小一些，而且带新人方面也没有太大压力。所以时间长了，大家都会觉得有点疲。我们会定期举行CBS(Come Build Something)，或者CSS(Come Share Something)这样的活动来刺激一下。我们团队上一般有8个人，每次CBS都是有3-4个ideas，然后结对去做，虽然不会产出什么划时代/跨世纪的产品，但是每次也都会有一些产出。可惜在坚持方面做的并不好。从项目上Roll off的当天，团队送我了一本书《人与神话》(据说排在**程序员谎称读过**的经典书籍排行榜的榜首，不过实话实说，当时非常感动，谢谢我们team和我并肩作战近两年的同事+朋友)：
 
-![image](http://abruzzi.github.com/images/2013/12/rca-memory-resized.png)
+![image](/images/2013/12/rca-memory-resized.png)
 
 从项目上roll off之后，加入了西安本地的一个咨询项目，以前端工程师的身份加入，新项目的人对前端开发的经验相对来说都比较少，但是有很强烈的学习愿望，而且动力也很足。新项目本身做起来也比较有意思，各种前端的比较现代的技术(测试，本地构建，CI)，框架(AngularJS, Jasmine)都可以很好的进行实践。
 
-![image](http://abruzzi.github.com/images/2013/12/gis-front-end-resized.png)
+![image](/images/2013/12/gis-front-end-resized.png)
 
 刚开始的时候，也是压力巨大，但是咬牙挺过前三天之后，就容易多了。单元在新的一年，可以和新的团队一起将这个项目做好。
 
@@ -69,13 +69,13 @@ RCA总的来说，有经验的人居多，所以交付压力来说要小一些�
 
 7月份，我和学海兄参加了欧洲的AwayDay，本来准备讲一个关于轻量级web应用开发的session，但是后来由于session太多，我的就被cancel了。
 
-![image](http://abruzzi.github.com/images/2013/12/london-eye-resized.png)
+![image](/images/2013/12/london-eye-resized.png)
 
 
 在印度正好赶上印度的AwayDay:
 
-![image](http://abruzzi.github.com/images/2013/12/india-away-day-resized.png)
+![image](/images/2013/12/india-away-day-resized.png)
 
 在普内周边的一个古堡上：
 
-![image](http://abruzzi.github.com/images/2013/12/india-hiking-resized.png)
+![image](/images/2013/12/india-hiking-resized.png)

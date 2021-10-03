@@ -19,7 +19,7 @@ Hackday中的idea多是工作中接触到的痛点，但是又有一些挑战，
 2. 找出一个地区中，可以最快卖掉手中房产的中介
 
 
-![image](http://abruzzi.github.com/images/2013/03/hackday-agent-info.resized.png)
+![image](/images/2013/03/hackday-agent-info.resized.png)
 
 我们的应用使用sinatra作为服务器；由于数据库系统已经存在，所以ORM需要做的是将对象和已存在的数据表关联，因此功能强大且可以独立使用的ActiveRecord就成了首选；模板使用haml；UI框架风格使用了BootStrap。
 
@@ -35,7 +35,7 @@ Hackday中的idea多是工作中接触到的痛点，但是又有一些挑战，
 
 第二次的idea是一个基于google map的应用，比如某人的公司在A地，老婆的公司在B地，他们最喜欢的超市在C地，然后他们想找一个离这三个地方距离都很近的房子。
 
-![image](http://abruzzi.github.com/images/2013/03/hackday-neighborhood.resized.png)
+![image](/images/2013/03/hackday-neighborhood.resized.png)
 
 同样也使用了Sinatra+haml+javascript。由于idea本身就是西安团队想出来的，所以这次的参与者都是西安office的，这样可以省去交流的成本，做起来肯快，但是问题也很严重，就是没有人做演示，别的团队也不清楚我们在干什么。
 
@@ -43,11 +43,11 @@ Hackday中的idea多是工作中接触到的痛点，但是又有一些挑战，
 
 经历了前两次，第三次的就非常official了，有story wall，有producer，有站会，有showcase，正好这段时间我们的一个客户designer在西安office出差，所以还设计了一些海报。
 
-![image](http://abruzzi.github.com/images/2013/03/hackday-rango-stories.resized.png)
+![image](/images/2013/03/hackday-rango-stories.resized.png)
 
 有了专业的designer参与，应用程序的外观立马得到了改善，看起来非常有产品的感觉：
 
-![image](http://abruzzi.github.com/images/2013/03/hackday-rango-homepage.resized.png)
+![image](/images/2013/03/hackday-rango-homepage.resized.png)
 
 这次本来计划开发离线版本，使用浏览器的localStorage，但是静态网页在iPad上无法工作。team快速的做出了调整，使用sinatra（又一次）搭建了服务器，然后将应用部署在cloud上。
 

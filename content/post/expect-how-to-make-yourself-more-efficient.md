@@ -22,7 +22,7 @@ $ find . -name "*.js" | xargs basename | uniq | wc -l
 3. 填写密码
 4. 等待连接建立，然后程序退出
 
-![image](http://abruzzi.github.com/images/2013/12/vpnlogin.png)
+![image](/images/2013/12/vpnlogin.png)
 
 像这种需要用户交互操作的程序，是无法通过常规的方式来完成自动化的。如果你经常需要做这样的操作，比如网络环境并不稳定，每天需要连接2-3次，那也是一个非常烦人的事情。
 

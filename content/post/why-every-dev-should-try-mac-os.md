@@ -24,7 +24,7 @@ Tags = []
 
 我觉得对一个合格的开发人员来说，命令行技能，即使不是最重要的，也应该是第二重要的，Mac下的命令行非常好用，有很多shell可供选择，Linux用户可以没有任何学习曲线的转移到Mac的命令行中(bash)，如果觉得默认的bash不顺手，也可以很轻易的切换到zsh，csh之类，很多的Linux知识可以直接用在Mac上，毫无挫败感。
 
-[![image](http://abruzzi.github.com/images/2013/01/shell-mac-resized.png)](http://http://abruzzi.github.com/images/2013/01/shell-mac.png)
+[![image](/images/2013/01/shell-mac-resized.png)](http:///images/2013/01/shell-mac.png)
 
 Mac系统中内置了很多的软件，也有一些可以免费获得的优秀软件(下面列表中有很大一部分软件都是免费的)，很多人觉得Mac下什么软件都要收费，我觉得软件收费无可非议，每个软件都倾注了作者(一个或者多个)的大量心血，绝对是合情合理，特别是对于开发人员更是如此(但是，如果开发的软件如windows般垃圾而还要收费的话，那就让人忍不住要骂人了)。
 
@@ -38,7 +38,7 @@ Mac系统中内置了很多的软件，也有一些可以免费获得的优秀�
 	2. Emacs
 	3. Sublime Text 2
 
-[![image](http://abruzzi.github.com/images/2013/01/vim-mac-dev-resized.png)](http://abruzzi.github.com/images/2013/01/vim-mac-dev.png)
+[![image](/images/2013/01/vim-mac-dev-resized.png)](/images/2013/01/vim-mac-dev.png)
 
 ####IDE
 

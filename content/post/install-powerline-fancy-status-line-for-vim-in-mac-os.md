@@ -10,7 +10,7 @@ Tags = []
 [powerline](https://github.com/Lokaltog/powerline)会将vim的status line变的非常漂亮，看起来像一个“主流”的编辑器那样，而又不会引入额外的“重量”。基本原理是使用字体将特殊字符展现成特殊形状（如三角形），额外的有一些漂亮的配色。
 
 ####效果
-![image](http://abruzzi.github.com/images/2013/02/vim-power-line-resized.png)
+![image](/images/2013/02/vim-power-line-resized.png)
 
 ####安装
 有几个额外的点需要确保：

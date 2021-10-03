@@ -71,4 +71,4 @@ $
 
 ####效果图
 
-![image](http://abruzzi.github.com/images/2013/06/emacs.resized.png)
+![image](/images/2013/06/emacs.resized.png)

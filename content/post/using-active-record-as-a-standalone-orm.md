@@ -70,7 +70,7 @@ Categories = ["ruby", "ORM", "ActiveRecord"]
 
 三张表的关系如下：
 
-![image](http://abruzzi.github.com/images/2013/05/active_record.png)
+![image](/images/2013/05/active_record.png)
 
 
 ####示例程序的目录结构

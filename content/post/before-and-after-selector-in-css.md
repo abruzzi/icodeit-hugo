@@ -36,7 +36,7 @@ Categories = ["css", "web"]
 }
 ```
 
-![image](http://abruzzi.github.com/images/2013/05/color-box.png)
+![image](/images/2013/05/color-box.png)
 
 ###小三角形
 这时候，如果将其他的三条边隐藏起来（通过将`border`的颜色置为透明）：
@@ -51,7 +51,7 @@ Categories = ["css", "web"]
 }
 ```
 
-![image](http://abruzzi.github.com/images/2013/05/triggle.png)
+![image](/images/2013/05/triggle.png)
 
 先将所有的边都设置为透明色，然后根据需要显示某一个边，来完成三角形的指向。
 
@@ -90,13 +90,13 @@ HTML代码：
 }
 ```
 
-![image](http://abruzzi.github.com/images/2013/05/box.png)
+![image](/images/2013/05/box.png)
 
 ###更fancy的消息框
 
 先通过before伪元素，在消息框的底部加上一个小的三角形：
 
-![image](http://abruzzi.github.com/images/2013/05/box-triggle-gray.png)
+![image](/images/2013/05/box-triggle-gray.png)
 
 ```
 .container .chat-box:after, 
@@ -132,5 +132,5 @@ HTML代码：
 
 但是一个实心的灰色三角形比较难看，我们需要再改进一下，即通过在这个伪元素之上，再绘制一个白色（与消息框颜色相同）的伪元素，但是尺寸又小一个单位（单位与消息框本身的尺寸相同，这里为`1px`）。
 
-![image](http://abruzzi.github.com/images/2013/05/box-triggle-both.png)
+![image](/images/2013/05/box-triggle-both.png)
 

@@ -23,7 +23,7 @@ Categories = ["thoughtworks", "learn"]
 10. 环境友好
 
 
-![image](http://abruzzi.github.com/images/2013/03/design-10-commandments.resized.png)
+![image](/images/2013/03/design-10-commandments.resized.png)
 
 这里有[原文的链接](http://startupsthisishowdesignworks.com/)，总而言之，设计不仅仅是一个web页面，一个海报，所有的产品都会有不同程度的设计包含在其中。
 

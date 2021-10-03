@@ -69,4 +69,4 @@ $ rake generate
 
 ###效果图
 
-![image](http://abruzzi.github.com/images/2013/01/navigation.png)
+![image](/images/2013/01/navigation.png)

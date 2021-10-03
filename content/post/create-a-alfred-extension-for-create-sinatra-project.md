@@ -13,7 +13,7 @@ Categories = ["ruby", "tools", "productivity"]
 2.	应用程序加载器
 3.	快速的搜索（google，wikipedia）
 
-![使用Alfred搜索](http://abruzzi.github.com/images/2013/05/alfred-find.png)
+![使用Alfred搜索](/images/2013/05/alfred-find.png)
 
 ####powerpack
 
@@ -26,7 +26,7 @@ Alfred本身是免费的，但是一些高级的功能，如：
 
 提供在[powerpack](http://www.alfredapp.com/powerpack/)中，这个功能是要收费的，不过个人觉得绝对的物超所值。这些功能可以极大的提高我对计算机的使用效率，而且剪贴板栈功能可以节省我很多的时间。
 
-![image](http://abruzzi.github.com/images/2013/05/alfred-clipboard.png)
+![image](/images/2013/05/alfred-clipboard.png)
 
 ###扩展编写
 
@@ -75,6 +75,6 @@ curl http://code.jquery.com/jquery.js > public/scripts/libs/jquery.js
 /Applications/MacVim.app/Contents/MacOS/Vim -g .
 ```
 
-![image](http://abruzzi.github.com/images/2013/05/sinatra-ext-result.png)
+![image](/images/2013/05/sinatra-ext-result.png)
 
 执行完之后，`~/develop/ruby`下会生成一个新的目录，即`note`，这个目录中即为一个可以直接开始开发sinatra应用的工作目录了。

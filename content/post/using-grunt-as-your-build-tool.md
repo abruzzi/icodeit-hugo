@@ -168,4 +168,4 @@ grunt.registerTask('default', ['jshint']);
 
 运行结果`可能`如下:
 
-![image](http://abruzzi.github.com/images/2013/10/jshint.png)
+![image](/images/2013/10/jshint.png)
