@@ -1,5 +1,5 @@
 ---
-title: "组件设计之组合原则"
+title: "前端性能调优心法"
 date: 2021-06-16
 slug: "2021/06/frontend-performance-tuning-tips"
 categories: ["composition", "performance", "design"]
