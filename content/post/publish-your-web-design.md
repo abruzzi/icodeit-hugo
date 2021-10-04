@@ -1,5 +1,5 @@
 +++
-title = "Publish Your Web Design"
+title = "发布你的静态页面 - Github Pages"
 date = "2014-11-21"
 slug = "2014/11/21/publish-your-web-design"
 Categories = ["Web Design", "Github"]

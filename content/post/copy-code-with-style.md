@@ -1,5 +1,5 @@
 +++
-title = "Copy Code With Style"
+title = "剪贴板里的样式"
 date = "2015-01-24"
 slug = "2015/01/24/copy-code-with-style"
 Categories = ["Presentation", "Tool"]
@@ -8,7 +8,7 @@ Categories = ["Presentation", "Tool"]
 ### 高亮剪贴板里的代码片段
 我前几天在准备一个培训的slides的时候，想在Keynote中粘贴一段代码，默认的粘贴板中的内容并没有样式，粘进去之后就是纯文本，没有语法高亮不说，默认的，代码的字体会采用Keynote默认的字体，非常难看。
 
-之前在Intellij中有个插件`'Copy' on steroids`，这个插件可以将Intellij的编辑器中的高亮过的文本拷贝到剪贴板，然后就可以在Keynote中使用了。
+之前在Intellij中有个插件`'Copy' on steroids`，这个插件可以将`Intellij`的编辑器中的高亮过的文本拷贝到剪贴板，然后就可以在Keynote中使用了。
 
 我就想能不能有对应的命令行工具，结果还真的找到一个，就叫`highlight`，[主页在这里](http://www.andre-simon.de/doku/highlight/en/highlight.php)。（这里略微吐槽一下，这个官方页面的风格以今天的眼光来看，无论是配色还是样式布局等，都非常难看，完全是10年前的风格，不过这个小工具确实很好用）。
 

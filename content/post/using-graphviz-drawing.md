@@ -1,5 +1,5 @@
 +++
-title = "Using Graphviz Drawing"
+title = "使用graphviz绘图"
 date = "2015-11-10"
 slug = "2015/11/10/using-graphviz-drawing"
 Categories = ["Linux/UNIX", "Tools", "Graphviz"]

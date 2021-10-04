@@ -1,5 +1,5 @@
 +++
-title = "Meta Programming in Ruby"
+title = "Ruby里的元编程"
 date = "2013-12-15"
 slug = "2013/12/15/meta-programming-in-ruby"
 Categories = ["ruby", "meta programming", "language"]

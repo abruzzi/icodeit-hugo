@@ -1,5 +1,5 @@
 +++
-title = "Chongyang Palase"
+title = "重阳宫奇遇记"
 date = "2013-04-28"
 slug = "2013/04/28/chongyang-palase"
 Categories = ["travel", "小说"]

@@ -1,5 +1,5 @@
 +++
-title = "Expect How to Make Yourself More Efficient"
+title = "expect的两个小脚本"
 date = "2013-12-14"
 slug = "2013/12/14/expect-how-to-make-yourself-more-efficient"
 Categories = ["Efficient", "Expect"]

@@ -1,5 +1,5 @@
 +++
-title = "Get Started With Node Webkit"
+title = "Node Webkit 101"
 date = "2014-09-21"
 slug = "2014/09/21/get-started-with-node-webkit"
 Categories = ["node.js", "UI", "bootstrap"]

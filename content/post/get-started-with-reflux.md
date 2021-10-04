@@ -1,5 +1,5 @@
 +++
-title = "Get Started With Reflux"
+title = "Reflux 101"
 date = "2015-11-09"
 slug = "2015/11/09/get-started-with-reflux"
 Categories = ["JavaScript", "Frontend", "React", "Reflux"]

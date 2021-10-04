@@ -1,5 +1,5 @@
 +++
-title = "Intro Map Gis"
+title = "地理信息系统GIS简介"
 date = "2014-04-10"
 slug = "2014/04/10/intro-map-gis"
 Categories = ["python", "gis"]

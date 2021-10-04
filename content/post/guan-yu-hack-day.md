@@ -1,5 +1,5 @@
 +++
-title = "Guan Yu Hack Day"
+title = "关于项目上的HackDay"
 date = "2013-03-22"
 slug = "2013/03/22/guan-yu-hack-day"
 Categories = ["thoughtworks", "innovation"]

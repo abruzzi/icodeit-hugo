@@ -1,5 +1,5 @@
 +++
-title = "What You Have Learnt Those Years"
+title = "这些年你都学了些什么"
 date = "2015-11-01"
 slug = "2015/11/01/what-you-have-learnt-those-years"
 Categories = ["python", "visualization"]

@@ -1,5 +1,5 @@
 +++
-title = "Git Squash Localcommits"
+title = "git子命令之squash"
 date = "2012-11-07"
 slug = "2012/11/07/git-squash-localcommits"
 Categories = []

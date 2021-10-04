@@ -1,0 +1,81 @@
+baseURL: https://icodeit.org
+title: I Code It - code and life
+paginate: 5
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+googleAnalytics: UA-28217566-1
+
+minify:
+    disableXML: true
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    menu:
+      main:
+        - name: Archive
+          url: archives
+          weight: 5
+        - name: Search
+          url: search/
+          weight: 10
+        - name: Categories
+          url: categories/
+          weight: 10
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+disqusShortname: icodeit
+
+params:
+    env: production # to enable google analytics, opengraph, twitter-cards and schema.
+    description: "I Code It - code and life - https://icodeit.org"
+    author: Juntao Qiu
+
+    defaultTheme: auto
+    # disableThemeToggle: true
+    ShowShareButtons: true
+    ShowReadingTime: true
+    # disableSpecial1stPost: true
+    displayFullLangName: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
+    ShowToc: true
+
+    comments: true
+
+    homeInfoParams:
+        Title: I Code It
+        Content: code and life
+
+    socialIcons:
+        - name: github
+          url: "https://github.com/abruzzi"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/juntao-qiu-b865501b/"
+        - name: medium
+          url: "https://juntao-qiu.medium.com/"
+        - name: RsS
+          url: "index.xml"
+
+taxonomies:
+    category: categories
+    tag: tags
+    series: series
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true

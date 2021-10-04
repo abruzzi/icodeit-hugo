@@ -1,5 +1,5 @@
 +++
-title = "Grunt Plugins"
+title = "Grunt常用插件"
 date = "2013-10-08"
 slug = "2013/10/08/grunt-plugins"
 Categories = ["JavaScript", "Lightweight"]

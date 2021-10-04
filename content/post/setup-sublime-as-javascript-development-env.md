@@ -1,5 +1,5 @@
 +++
-title = "Setup Sublime as Javascript Development Env"
+title = "配置Sublime成为Javascript开发环境"
 date = "2014-12-21"
 slug = "2014/12/21/setup-sublime-as-javascript-development-env"
 Categories = ["JavaScript"]

@@ -1,5 +1,5 @@
 +++
-title = "Why Ddd Is So Hard"
+title = "为什么DDD很难？"
 date = "2017-01-11"
 slug = "2017/01/11/why-ddd-is-so-hard"
 Categories = ["DDD", "Methodology"]

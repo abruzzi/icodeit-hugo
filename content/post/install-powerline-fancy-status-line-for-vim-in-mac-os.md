@@ -1,5 +1,5 @@
 +++
-title = "Install Powerline Fancy Status Line for Vim in Mac Os"
+title = "使用Powerline打造漂亮的状态栏"
 date = "2013-02-19"
 slug = "2013/02/19/install-powerline-fancy-status-line-for-vim-in-mac-os"
 Categories = ["vim", "opensource", "tools"]

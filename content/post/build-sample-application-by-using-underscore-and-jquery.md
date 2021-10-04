@@ -1,5 +1,5 @@
 +++
-title = "Build Sample Application by Using Underscore and Jquery"
+title = "基于underscore和jQuery的微型告警系统"
 date = "2015-02-21"
 slug = "2015/02/21/build-sample-application-by-using-underscore-and-jquery"
 Categories = ["frontend", "jquery", "underscore"]

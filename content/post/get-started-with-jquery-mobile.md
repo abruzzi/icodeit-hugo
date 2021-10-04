@@ -1,5 +1,5 @@
 +++
-title = "Get Started With Jquery Mobile"
+title = "jQuery Mobile 101"
 date = "2013-02-14"
 slug = "2013/02/14/get-started-with-jquery-mobile"
 Categories = ["lightweight web", "open source"]

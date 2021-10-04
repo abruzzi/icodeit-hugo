@@ -1,5 +1,5 @@
 +++
-title = "Frontend Page Performance Tuning"
+title = "前端页面性能调优"
 date = "2017-02-08"
 slug = "2017/02/08/frontend-page-performance-tuning"
 Categories = ["UI", "Frontend"]

@@ -1,5 +1,5 @@
 +++
-title = "Build Monitor Script Based on Inotify"
+title = "基于inotify的告警脚本"
 date = "2015-03-01"
 slug = "2015/03/01/build-monitor-script-based-on-inotify"
 Categories = ["command line", "shell"]

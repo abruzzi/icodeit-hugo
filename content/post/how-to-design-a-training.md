@@ -1,5 +1,5 @@
 +++
-title = "How to Design a Training"
+title = "如何设计一个培训"
 date = "2016-09-10"
 slug = "2016/09/10/how-to-design-a-training"
 Categories = ["ThoughtWorks", "Training"]

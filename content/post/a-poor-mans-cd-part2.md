@@ -1,5 +1,5 @@
 +++
-title = "A Poor Mans Cd Part2"
+title = "穷人的持续交付 - 下"
 date = "2016-01-10"
 slug = "2016/01/10/a-poor-mans-cd-part2"
 Categories = ["CD", "ThoughtWorks"]

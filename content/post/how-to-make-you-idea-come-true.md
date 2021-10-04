@@ -1,5 +1,5 @@
 +++
-title = "How to Make You Idea Come True"
+title = "如何将你的想法变为现实"
 date = "2015-08-02"
 slug = "2015/08/02/how-to-make-you-idea-come-true"
 Categories = ["lightweight", "agile"]

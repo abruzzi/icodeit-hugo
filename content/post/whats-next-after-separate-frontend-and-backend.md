@@ -1,5 +1,5 @@
 +++
-title = "Whats Next After Separate Frontend and Backend"
+title = "前后端分离了，然后呢"
 date = "2015-06-22"
 slug = "2015/06/22/whats-next-after-separate-frontend-and-backend"
 Categories = ["frontend", "testing", "mock"]

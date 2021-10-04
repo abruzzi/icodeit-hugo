@@ -1,5 +1,5 @@
 +++
-title = "Is Project Manager a Fool"
+title = "PM是大傻逼吗"
 date = "2015-07-07"
 slug = "2015/07/07/is-project-manager-a-fool"
 Categories = ["ThoughtWorks", "Software"]

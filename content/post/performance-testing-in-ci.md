@@ -1,5 +1,5 @@
 +++
-title = "Performance Testing in Ci"
+title = "CI Pipeline上的性能测试"
 date = "2016-02-20"
 slug = "2016/02/20/performance-testing-in-ci"
 Categories = [" izero", " docker", " ThoughtWorks"]

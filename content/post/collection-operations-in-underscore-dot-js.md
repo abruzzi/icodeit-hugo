@@ -1,5 +1,5 @@
 +++
-title = "Collection Operations in Underscore Dot Js"
+title = "underscore中的集合操作"
 date = "2015-02-21"
 slug = "2015/02/21/collection-operations-in-underscore-dot-js"
 Categories = ["functional programming", "effective"]

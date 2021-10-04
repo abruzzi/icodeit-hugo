@@ -1,5 +1,5 @@
 +++
-title = "How to Test Service in Angularjs"
+title = "如何测试 Service - Angularjs"
 date = "2014-01-04"
 slug = "2014/01/04/how-to-test-service-in-angularjs"
 Categories = ["JavaScript", "AngularJS", "Jasmine", "Test"]

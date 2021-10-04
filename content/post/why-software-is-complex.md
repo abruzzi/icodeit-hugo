@@ -1,5 +1,5 @@
 +++
-title = "Why Software Is Complex"
+title = "软件开发为什么很难"
 date = "2017-01-06"
 slug = "2017/01/06/why-software-is-complex"
 Categories = ["Development", "Methodology"]

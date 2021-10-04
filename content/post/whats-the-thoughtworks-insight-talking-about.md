@@ -1,5 +1,5 @@
 +++
-title = "Whats the Thoughtworks Insight Talking About"
+title = "ThoughtWorks洞见在讲什么"
 date = "2017-03-12"
 slug = "2017/03/12/whats-the-thoughtworks-insight-talking-about"
 Categories = ["ThoughtWorks", "visualization", "data", "infovis"]

@@ -1,5 +1,5 @@
 +++
-title = "K Nearest Neighbour"
+title = "K-Nearest-Neighbour 算法简介"
 date = "2013-01-03"
 slug = "2013/01/03/k-nearest-neighbour"
 Categories = ["人工智能", "thoughtworks"]

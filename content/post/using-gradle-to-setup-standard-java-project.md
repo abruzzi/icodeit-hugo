@@ -1,11 +1,11 @@
 +++
-title = "Using Gradle to Setup Standard Java Project"
+title = "工程化的搭建Java环境 - gradle"
 date = "2012-10-12"
 slug = "2012/10/12/using-gradle-to-setup-standard-java-project"
 Categories = []
 +++
 ##Generate typical project layout
-If you are as lazy as I am, you may want to generate typecial project layout automatically, let's do it by using [gradle](http://www.gradle.org/).
+If you are as lazy as I am, you may want to generate typical project layout automatically, let's do it by using [gradle](http://www.gradle.org/).
 
 Simply add the following lines into your build.gradle:
 

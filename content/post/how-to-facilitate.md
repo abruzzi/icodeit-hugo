@@ -1,5 +1,5 @@
 +++
-title = "How to Facilitate"
+title = "如何正确的引导会议"
 date = "2016-01-23"
 slug = "2016/01/23/how-to-facilitate"
 Categories = [" izero", " ThoughtWorks"]

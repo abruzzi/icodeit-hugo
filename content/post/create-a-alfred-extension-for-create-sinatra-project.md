@@ -1,5 +1,5 @@
 +++
-title = "Create a Alfred Extension for Create Sinatra Project"
+title = "Alfred插件开发 - Sinatra"
 date = "2013-05-18"
 slug = "2013/05/18/create-a-alfred-extension-for-create-sinatra-project"
 Categories = ["ruby", "tools", "productivity"]

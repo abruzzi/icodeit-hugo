@@ -1,5 +1,5 @@
 +++
-title = "List Comprehension in Python"
+title = "Python中的List表达式"
 date = "2015-03-30"
 slug = "2015/03/30/list-comprehension-in-python"
 Categories = ["python", "functional programming"]

@@ -1,8 +1,8 @@
 +++
-title = "Simplified Tdd by Using Interllij"
+title = "Interllij里的测试驱动开发"
 date = "2012-10-15"
 slug = "2012/10/15/simplified-tdd-by-using-interllij"
-Categories = []
+Categories = ["TDD"]
 +++
 In my last [post](), I mentioned to how to setup a intellij project by using gradle. and today we are going to talk about how to using intellij to write a demo java project from scratch(right after the *gradle idea* command).
 

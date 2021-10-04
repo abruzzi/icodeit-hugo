@@ -1,8 +1,8 @@
 +++
-title = "Feedback Saves the World"
+title = "反馈拯救世界"
 date = "2018-01-13"
 slug = "2018/01/13/feedback-saves-the-world"
-Categories = ["ThoughtWorks", "Feedback", "TDD", "JavaScript"]
+Categories = ["ThoughtWorks", "Feedback", "TDD", "JavaScript", "反馈"]
 +++
 
 ### 心流

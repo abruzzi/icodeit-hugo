@@ -1,8 +1,8 @@
 +++
-title = "Turning to a Designer"
+title = "成为设计师"
 date = "2013-03-26"
 slug = "2013/03/26/turning-to-a-designer"
-Categories = ["thoughtworks", "learn"]
+Categories = ["thoughtworks", "learn", "UX", "Design"]
 +++
 
 ####Hack design的建议

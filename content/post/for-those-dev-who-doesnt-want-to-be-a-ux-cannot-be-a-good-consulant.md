@@ -1,8 +1,8 @@
 +++
-title = "For Those Dev Who Doesnt Want to Be a Ux Cannot Be a Good Consulant"
+title = "不想当UX的开发不是好咨询师"
 date = "2016-01-31"
 slug = "2016/01/31/for-those-dev-who-doesnt-want-to-be-a-ux-cannot-be-a-good-consulant"
-Categories = [" izero", " ThoughtWorks"]
+Categories = ["izero", " ThoughtWorks", "跨界", "UX"]
 +++
 
 ## 成为咨询师

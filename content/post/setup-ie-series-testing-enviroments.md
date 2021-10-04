@@ -1,5 +1,5 @@
 +++
-title = "Setup Ie Series Testing Enviroments"
+title = "为IE设置测试环境"
 date = "2014-09-01"
 slug = "2014/09/01/setup-ie-series-testing-enviroments"
 Categories = ["test", "dev-ops"]

@@ -1,5 +1,5 @@
 +++
-title = "Using Ssh Forward to Get Out of Stupid Wall"
+title = "ssh forward 101"
 date = "2012-10-25"
 slug = "2012/10/25/using-ssh-forward-to-get-out-of-stupid-wall"
 Categories = []

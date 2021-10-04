@@ -1,5 +1,5 @@
 +++
-title = "Proc in Ruby"
+title = "Ruby中的Proc"
 date = "2013-05-12"
 slug = "2013/05/12/proc-in-ruby"
 Categories = ["ruby", "programming language"]

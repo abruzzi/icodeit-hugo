@@ -1,5 +1,5 @@
 +++
-title = "Make a Colorful Svn Diff"
+title = "制作一个多彩的svn diff脚本"
 date = "2015-02-18"
 slug = "2015/02/18/make-a-colorful-svn-diff"
 Categories = ["command line", "effective"]

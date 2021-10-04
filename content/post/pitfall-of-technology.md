@@ -1,5 +1,5 @@
 +++
-title = "Pitfall of Technology"
+title = "技术陷阱"
 date = "2016-02-14"
 slug = "2016/02/14/pitfall-of-technology"
 Categories = ["ThoughtWorks"]

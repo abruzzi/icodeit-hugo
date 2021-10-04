@@ -1,5 +1,5 @@
 +++
-title = "Visualize Your Steps"
+title = "可视化你的足迹"
 date = "2015-09-18"
 slug = "2015/09/18/visualize-your-steps"
 Categories = ["GIS", "Data", "Visualization"]

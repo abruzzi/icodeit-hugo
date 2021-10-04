@@ -1,5 +1,5 @@
 +++
-title = "Customize Matcher by Using Hamcrest"
+title = "Hamcrest里的自定义匹配器"
 date = "2012-10-15"
 slug = "2012/10/15/customize-matcher-by-using-hamcrest"
 Categories = []

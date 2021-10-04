@@ -1,5 +1,5 @@
 +++
-title = "My 4w Robot Built on Top of Arduino"
+title = "我的第一个四驱机器人 - Arduino"
 date = "2014-06-01"
 slug = "2014/06/01/my-4w-robot-built-on-top-of-arduino"
 Categories = ["hardware", "arduino", "robot"]

@@ -1,5 +1,5 @@
 +++
-title = "Linux Tips"
+title = "Linux命令行中的7个小技巧"
 date = "2015-02-14"
 slug = "2015/02/14/linux-tips"
 Categories = ["Linux", "Command line"]

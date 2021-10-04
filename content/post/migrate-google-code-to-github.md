@@ -1,5 +1,5 @@
 +++
-title = "Migrate Google Code to Github"
+title = "从Google Code迁移至Github"
 date = "2013-01-13"
 slug = "2013/01/13/migrate-google-code-to-github"
 Categories = ["opensource", "tools"]

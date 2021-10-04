@@ -1,5 +1,5 @@
 +++
-title = "Simple Idea and Simple Script"
+title = "中午吃啥 - 一个简单的脚本"
 date = "2014-09-18"
 slug = "2014/09/18/simple-idea-and-simple-script"
 Categories = ["Ruby", "Apple Script"]

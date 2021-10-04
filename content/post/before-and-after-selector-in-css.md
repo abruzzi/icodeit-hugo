@@ -1,5 +1,5 @@
 +++
-title = "Before and After Selector in Css"
+title = "CSS中的Before和After伪元素"
 date = "2013-05-16"
 slug = "2013/05/16/before-and-after-selector-in-css"
 Categories = ["css", "web"]

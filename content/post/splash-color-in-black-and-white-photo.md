@@ -1,5 +1,5 @@
 +++
-title = "Splash Color in Black and White Photo"
+title = "ImageMagick - 命令行里的PhotoShop"
 date = "2014-11-08"
 slug = "2014/11/08/splash-color-in-black-and-white-photo"
 Categories = ["fun", "photograph"]

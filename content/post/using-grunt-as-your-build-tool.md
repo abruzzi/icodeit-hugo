@@ -1,5 +1,5 @@
 +++
-title = "Using Grunt as Your Build Tool"
+title = "Grunt 101 - JavaScript里的构建工具"
 date = "2013-10-07"
 slug = "2013/10/07/using-grunt-as-your-build-tool"
 Categories = ["JavaScript", "lightweight"]

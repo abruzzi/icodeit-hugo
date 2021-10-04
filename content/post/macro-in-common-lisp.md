@@ -1,5 +1,5 @@
 +++
-title = "MacRo in Common Lisp"
+title = "Common Lisp中的宏"
 date = "2013-06-15"
 slug = "2013/06/15/macro-in-common-lisp"
 Categories = ["lisp", "script", "functional programming"]

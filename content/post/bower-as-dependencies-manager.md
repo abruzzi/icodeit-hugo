@@ -1,5 +1,5 @@
 +++
-title = "Bower as Dependencies Manager"
+title = "依赖管理器Bower简介"
 date = "2013-10-09"
 slug = "2013/10/09/bower-as-dependencies-manager"
 Categories = ["JavaScript", "Lightweight"]

@@ -1,5 +1,5 @@
 +++
-title = "Book Cover Story"
+title = "JavaScript核心概念及实践 - 封面故事"
 date = "2013-04-13"
 slug = "2013/04/13/book-cover-story"
 Categories = ["thoughtworks", "learn"]

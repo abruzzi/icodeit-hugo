@@ -1,5 +1,5 @@
 +++
-title = "Javascripthe Xin Gai Nian Ji Shi Jian Kan Wu Biao"
+title = "JavaScript核心概念及实践 - 勘误表"
 date = "2013-05-16"
 slug = "2013/05/16/javascripthe-xin-gai-nian-ji-shi-jian-kan-wu-biao"
 Categories = ["JavaScript", "book"]

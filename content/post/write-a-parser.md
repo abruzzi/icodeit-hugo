@@ -1,8 +1,8 @@
 +++
-title = "Write a Parser"
+title = "如何手写一个解释器"
 date = "2015-09-30"
 slug = "2015/09/30/write-a-parser"
-Categories = ["JavaScript", "Language"]
+Categories = ["JavaScript", "Language", "jison"]
 +++
 
 ### 前言
