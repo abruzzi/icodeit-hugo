@@ -1,6 +1,6 @@
 ---
 title: "抽象的不同层次"
-date: 2020-07-09-13
+date: 2020-07-09
 slug: "2020/07/levels-of-abstraction"
 categories: ["abstraction", "learning", "coding", "methodology"]
 ---
