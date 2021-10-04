@@ -47,7 +47,7 @@ disqusShortname: icodeit
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     description: "I Code It - code and life - https://icodeit.org"
-    author: Juntao Qiu
+    author: 邱俊涛 | Juntao Qiu
 
     defaultTheme: auto
     # disableThemeToggle: true
