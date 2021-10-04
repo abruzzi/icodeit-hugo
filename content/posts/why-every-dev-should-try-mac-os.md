@@ -1,7 +1,7 @@
 +++
 title = "为什么每个开发人员都应该使用Mac系统"
 date = "2013-01-01"
-slug = "2013/01/01/why-every-dev-should-try-mac-os"
+slug = "2013/01/why-every-dev-should-try-mac-os"
 Categories = ["tools"]
 Tags = []
 +++

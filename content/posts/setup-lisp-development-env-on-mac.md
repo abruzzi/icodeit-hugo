@@ -1,7 +1,7 @@
 +++
 title = "Mac上的Lisp开发环境"
 date = "2013-06-03"
-slug = "2013/06/03/setup-lisp-development-env-on-mac"
+slug = "2013/06/setup-lisp-development-env-on-mac"
 Categories = []
 +++
 

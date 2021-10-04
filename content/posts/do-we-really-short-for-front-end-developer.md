@@ -1,7 +1,7 @@
 +++
 title = "我们真的缺前端工程师吗"
 date = "2015-06-14"
-slug = "2015/06/14/do-we-really-short-for-front-end-developer"
+slug = "2015/06/do-we-really-short-for-front-end-developer"
 Categories = ["ThoughtWorks", "Frontend"]
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = "使用Active Record"
 date = "2013-05-18"
-slug = "2013/05/18/using-active-record-as-a-standalone-orm"
+slug = "2013/05/using-active-record-as-a-standalone-orm"
 Categories = ["ruby", "ORM", "ActiveRecord"]
 +++
 ###ActiveRecord

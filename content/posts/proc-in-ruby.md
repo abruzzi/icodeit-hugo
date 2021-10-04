@@ -1,7 +1,7 @@
 +++
 title = "Ruby中的Proc"
 date = "2013-05-12"
-slug = "2013/05/12/proc-in-ruby"
+slug = "2013/05/proc-in-ruby"
 Categories = ["ruby", "programming language"]
 +++
 ##block in ruby

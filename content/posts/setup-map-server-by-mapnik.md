@@ -1,7 +1,7 @@
 +++
 title = "使用Mapnik搭建GIS服务器"
 date = "2014-04-12"
-slug = "2014/04/12/setup-map-server-by-mapnik"
+slug = "2014/04/setup-map-server-by-mapnik"
 Categories = ["python", "GIS", "JavaScript"]
 +++
 

@@ -1,8 +1,8 @@
 +++
 title = "svn中的分支管理"
 date = "2014-08-25"
-slug = "2014/08/25/how-to-merge-branches-in-svn"
-Categories = ["SVN", "Command line"]
+slug = "2014/08/how-to-merge-branches-in-svn"
+Categories = ["svn", "Command line", "命令行"]
 +++
 ### 分支策略
 

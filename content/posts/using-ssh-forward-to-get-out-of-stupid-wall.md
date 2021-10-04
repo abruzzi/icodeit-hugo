@@ -1,8 +1,8 @@
 +++
 title = "ssh forward 101"
 date = "2012-10-25"
-slug = "2012/10/25/using-ssh-forward-to-get-out-of-stupid-wall"
-Categories = []
+slug = "2012/10/using-ssh-forward-to-get-out-of-stupid-wall"
+Categories = ["ssh", "command line"]
 +++
 
 ## Generate the public and private key pair

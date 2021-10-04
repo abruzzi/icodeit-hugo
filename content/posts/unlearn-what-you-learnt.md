@@ -1,7 +1,7 @@
 ---
 title: "那些年，我见过的那些\"废柴\""
 date: 2019-08-29
-slug: "2019/08/29/unlearn-what-you-learnt"
+slug: "2019/08/unlearn-what-you-learnt"
 categories: ["work", "professional"]
 ---
 

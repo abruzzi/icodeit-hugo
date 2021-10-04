@@ -1,7 +1,7 @@
 +++
 title = "使用Karma作为JavaScript的测试Runner"
 date = "2013-10-08"
-slug = "2013/10/08/using-karma-as-the-javascript-test-runner"
+slug = "2013/10/using-karma-as-the-javascript-test-runner"
 Categories = ["JavaScript", "Lightweight", "Testing"]
 +++
 

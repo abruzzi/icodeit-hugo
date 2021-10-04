@@ -1,7 +1,7 @@
 +++
 title = "CGI是如何工作的"
 date = "2014-04-20"
-slug = "2014/04/20/how-web-works-cgi"
+slug = "2014/04/how-web-works-cgi"
 Categories = ["lightweight", "cgi", "web"]
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = "反馈拯救世界"
 date = "2018-01-13"
-slug = "2018/01/13/feedback-saves-the-world"
+slug = "2018/01/feedback-saves-the-world"
 Categories = ["ThoughtWorks", "Feedback", "TDD", "JavaScript", "反馈"]
 +++
 

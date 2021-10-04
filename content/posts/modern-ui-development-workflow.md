@@ -1,7 +1,7 @@
 +++
 title = "现代Web页面开发流程"
 date = "2014-11-25"
-slug = "2014/11/25/modern-ui-development-workflow"
+slug = "2014/11/modern-ui-development-workflow"
 Categories = ["Web Design", "Workflow", "Frontend"]
 +++
 

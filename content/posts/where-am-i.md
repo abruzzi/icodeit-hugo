@@ -1,7 +1,7 @@
 +++
 title = "我需要慢一些"
 date = "2013-01-09"
-slug = "2013/01/09/where-am-i"
+slug = "2013/01/where-am-i"
 Categories = ["Thinking", "ThoughtWorks"]
 Tags = []
 +++

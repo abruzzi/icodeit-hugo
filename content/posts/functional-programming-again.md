@@ -1,7 +1,7 @@
 +++
 title = "又论函数式编程"
 date = "2015-05-23"
-slug = "2015/05/23/functional-programming-again"
+slug = "2015/05/functional-programming-again"
 Categories = ["functional", "JavaScript"]
 +++
 ## 前言

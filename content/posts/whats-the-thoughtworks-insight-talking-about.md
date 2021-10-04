@@ -1,7 +1,7 @@
 +++
 title = "ThoughtWorks洞见在讲什么"
 date = "2017-03-12"
-slug = "2017/03/12/whats-the-thoughtworks-insight-talking-about"
+slug = "2017/03/whats-the-thoughtworks-insight-talking-about"
 Categories = ["ThoughtWorks", "visualization", "data", "infovis"]
 +++
 

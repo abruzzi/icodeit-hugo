@@ -1,8 +1,8 @@
 +++
 title = "配置Sublime成为Javascript开发环境"
 date = "2014-12-21"
-slug = "2014/12/21/setup-sublime-as-javascript-development-env"
-Categories = ["JavaScript"]
+slug = "2014/12/setup-sublime-as-javascript-development-env"
+Categories = ["JavaScript", "editor", "sublime"]
 +++
 我在编写[《JavaScript核心概念及实践》](http://book.douban.com/subject/24165880/)一书的时候，为了保证读者学习时可以比较专注语言本身，专门用Swing开发了一个小工具[JSEvaluator](https://github.com/abruzzi/jsevaluator)。
 

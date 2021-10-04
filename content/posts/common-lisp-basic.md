@@ -1,7 +1,7 @@
 +++
 title = "Common Lisp基础"
 date = "2013-06-13"
-slug = "2013/06/13/common-lisp-basic"
+slug = "2013/06/common-lisp-basic"
 Categories = ["lisp", "functional programming"]
 +++
 

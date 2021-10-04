@@ -1,7 +1,7 @@
 +++
 title = "穷人的持续交付 - 下"
 date = "2016-01-10"
-slug = "2016/01/10/a-poor-mans-cd-part2"
+slug = "2016/01/a-poor-mans-cd-part2"
 Categories = ["CD", "ThoughtWorks"]
 +++
 # 客户端程序的的持续交付

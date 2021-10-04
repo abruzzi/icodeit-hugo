@@ -1,7 +1,7 @@
 +++
 title = "基于OpenCV的数字识别"
 date = "2013-01-05"
-slug = "2013/01/05/basic-digits-recognization"
+slug = "2013/01/basic-digits-recognization"
 Categories = ["AI", "ThoughtWorks"]
 Tags = []
 +++

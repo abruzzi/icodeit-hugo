@@ -1,7 +1,7 @@
 +++
 title = "Rack It Up"
 date = "2013-08-02"
-slug = "2013/08/02/rack-it-up"
+slug = "2013/08/rack-it-up"
 Categories = ["ruby", "lightweight", "web development", "rack"]
 +++
 ### Rack it up (proc)

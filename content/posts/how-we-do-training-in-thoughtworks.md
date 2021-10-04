@@ -1,7 +1,7 @@
 +++
 title = "在Thoughtworks我们如何做培训"
 date = "2015-01-25"
-slug = "2015/01/25/how-we-do-training-in-thoughtworks"
+slug = "2015/01/how-we-do-training-in-thoughtworks"
 Categories = ["ThoughtWorks", "Life"]
 +++
 ### ThoughtWorks内部培训

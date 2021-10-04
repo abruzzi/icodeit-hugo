@@ -1,7 +1,7 @@
 +++
 title = "site_prism中的Page Object"
 date = "2015-01-02"
-slug = "2015/01/02/page-object-with-site-prism"
+slug = "2015/01/page-object-with-site-prism"
 Categories = ["Ruby", "Test"]
 +++
 

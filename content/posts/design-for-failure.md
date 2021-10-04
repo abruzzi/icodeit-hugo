@@ -1,7 +1,7 @@
 +++
 title = "为失败而设计"
 date = "2016-05-17"
-slug = "2016/05/17/design-for-failure"
+slug = "2016/05/design-for-failure"
 Categories = ["Design", "Spring", ""]
 +++
 

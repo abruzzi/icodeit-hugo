@@ -1,7 +1,7 @@
 +++
 title = "剪贴板里的样式"
 date = "2015-01-24"
-slug = "2015/01/24/copy-code-with-style"
+slug = "2015/01/copy-code-with-style"
 Categories = ["Presentation", "Tool"]
 +++
 

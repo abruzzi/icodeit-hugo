@@ -1,8 +1,8 @@
 +++
 title = "CI Pipeline上的性能测试"
 date = "2016-02-20"
-slug = "2016/02/20/performance-testing-in-ci"
-Categories = [" izero", " docker", " ThoughtWorks"]
+slug = "2016/02/performance-testing-in-ci"
+Categories = ["izero", "docker", " ThoughtWorks"]
 +++
 ## Web站点的响应速度
 

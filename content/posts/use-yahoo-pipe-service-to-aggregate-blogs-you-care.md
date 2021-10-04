@@ -1,7 +1,7 @@
 +++
 title = "使用Yahoo Pipe Service来聚合你关注的博客"
 date = "2014-01-01"
-slug = "2014/01/01/use-yahoo-pipe-service-to-aggregate-blogs-you-care"
+slug = "2014/01/use-yahoo-pipe-service-to-aggregate-blogs-you-care"
 Categories = ["yahoo", "tools", "ThoughtWorks"]
 +++
 

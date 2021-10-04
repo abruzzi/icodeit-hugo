@@ -1,7 +1,7 @@
 ---
 title: "节奏大师：BA"
 date: 2018-12-19
-slug: "2018/12/19/rhythm-master-ba"
+slug: "2018/12/rhythm-master-ba"
 categories: ["BA", "agile", "end to end"]
 ---
 

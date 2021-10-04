@@ -1,7 +1,7 @@
 +++
 title = "从三明治到六边形"
 date = "2017-08-21"
-slug = "2017/08/21/from-sandwich-to-hexagon"
+slug = "2017/08/from-sandwich-to-hexagon"
 Categories = ["DDD", "Methodology"]
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = "敏捷团队里的QA"
 date = "2016-09-24"
-slug = "2016/09/24/what-should-qa-do-in-a-agile-team"
+slug = "2016/09/what-should-qa-do-in-a-agile-team"
 Categories = [" ThoughtWorks", " Testing", " Automation", " Agile", " Lean"]
 +++
 

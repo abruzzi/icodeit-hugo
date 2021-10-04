@@ -1,7 +1,7 @@
 +++
 title = "祭小螃蟹"
 date = "2010-10-20"
-slug = "2010/10/20/little-crab"
+slug = "2010/10/little-crab"
 Categories = ["无聊斋文集"]
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = "你需要的编程练习"
 date = "2016-05-26"
-slug = "2016/05/26/practise-in-programming"
+slug = "2016/05/practise-in-programming"
 Categories = ["ThoughtWorks", "Methodology", "Fun"]
 +++
 

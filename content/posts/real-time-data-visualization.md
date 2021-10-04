@@ -1,7 +1,7 @@
 +++
 title = "实时数据可视化"
 date = "2018-06-17"
-slug = "2018/06/17/real-time-data-visualization"
+slug = "2018/06/real-time-data-visualization"
 categories = ["visualization", "data", "d3", "shell", "logstash"]
 +++
 

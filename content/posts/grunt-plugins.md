@@ -1,7 +1,7 @@
 +++
 title = "Grunt常用插件"
 date = "2013-10-08"
-slug = "2013/10/08/grunt-plugins"
+slug = "2013/10/grunt-plugins"
 Categories = ["JavaScript", "Lightweight"]
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = "可视化之根"
 date = "2017-03-01"
-slug = "2017/03/01/visualise-the-data-around-you"
+slug = "2017/03/visualise-the-data-around-you"
 Categories = ["data", "visualization", "infovis", "xinxin"]
 +++
 

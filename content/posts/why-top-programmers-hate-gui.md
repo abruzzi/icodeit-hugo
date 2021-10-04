@@ -1,7 +1,7 @@
 +++
 title = "为什么优秀的程序员不喜欢GUI"
 date = "2017-01-17"
-slug = "2017/01/17/why-top-programmers-hate-gui"
+slug = "2017/01/why-top-programmers-hate-gui"
 Categories = ["文化", "UNIX", "Graphite", "Grafana", "Shell"]
 +++
 

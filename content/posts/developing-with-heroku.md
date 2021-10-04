@@ -1,7 +1,7 @@
 +++
 title = "使用Heroku开发Web应用"
 date = "2013-01-26"
-slug = "2013/01/26/developing-with-heroku"
+slug = "2013/01/developing-with-heroku"
 Categories = ["ThoughtWorks", "open source"]
 Tags = []
 +++

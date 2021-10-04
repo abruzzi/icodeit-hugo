@@ -1,8 +1,8 @@
 +++
 title = "ImageMagick - 命令行里的PhotoShop"
 date = "2014-11-08"
-slug = "2014/11/08/splash-color-in-black-and-white-photo"
-Categories = ["fun", "photograph"]
+slug = "2014/11/splash-color-in-black-and-white-photo"
+Categories = ["fun", "photograph", "命令行"]
 +++
 
 ### 黑白+单色照片

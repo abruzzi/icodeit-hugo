@@ -1,7 +1,7 @@
 +++
 title = "团队里的两类程序员"
 date = "2018-01-14"
-slug = "2018/01/14/two-types-of-developer"
+slug = "2018/01/two-types-of-developer"
 Categories = ["ThoughtWorks", "prototyper"]
 +++
 

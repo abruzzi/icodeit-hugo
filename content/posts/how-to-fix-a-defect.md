@@ -1,7 +1,7 @@
 ---
 title: "修复缺陷的正确姿势"
 date: 2019-06-18
-slug: "2019/06/18/how-to-fix-a-defect"
+slug: "2019/06/how-to-fix-a-defect"
 categories: ["defect", "quality", "redux", "frontend"]
 ---
 

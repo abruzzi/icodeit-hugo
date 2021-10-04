@@ -1,7 +1,7 @@
 +++
 title = "骑行小记"
 date = "2013-03-10"
-slug = "2013/03/10/cycling"
+slug = "2013/03/cycling"
 Categories = ["cycling", "运动"]
 +++
 ###昆明骑行

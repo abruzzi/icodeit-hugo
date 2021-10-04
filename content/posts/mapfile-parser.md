@@ -1,8 +1,8 @@
 +++
 title = "Mapfile解析器"
 date = "2015-10-05"
-slug = "2015/10/05/mapfile-parser"
-Categories = ["Language", "JavaScript"]
+slug = "2015/10/mapfile-parser"
+Categories = ["Language", "JavaScript", "jison"]
 +++
 ### 前言
 

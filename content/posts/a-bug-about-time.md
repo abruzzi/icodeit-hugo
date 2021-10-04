@@ -1,7 +1,7 @@
 +++
 title = "一个神奇的Bug"
 date = "2014-09-04"
-slug = "2014/09/04/a-bug-about-time"
+slug = "2014/09/a-bug-about-time"
 Categories = ["JavaScript", "Bug"]
 +++
 ### 一个神奇的Bug

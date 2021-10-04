@@ -1,7 +1,7 @@
 +++
 title = "会话与API安全 - 下"
 date = "2016-05-12"
-slug = "2016/05/12/about-session-and-security-api-2"
+slug = "2016/05/about-session-and-security-api-2"
 Categories = ["Spring", "Nginx", "Ruby", "Integration"]
 +++
 

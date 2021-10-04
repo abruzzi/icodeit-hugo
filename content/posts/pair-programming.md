@@ -1,7 +1,7 @@
 ---
 title: "7个你需要知道的结对礼仪"
 date: 2018-12-07
-slug: "2018/12/07/pair-programming"
+slug: "2018/12/pair-programming"
 categories: ["pair", "agile", "efficiency", "methodology"]
 ---
 

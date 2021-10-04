@@ -1,7 +1,7 @@
 ---
 title: "你要专业"
 date: 2018-12-12
-slug: "2018/12/12/be-professional"
+slug: "2018/12/be-professional"
 categories: ["professional", "work", "Thoughtworks"]
 ---
 

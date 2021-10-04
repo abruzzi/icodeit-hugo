@@ -1,7 +1,7 @@
 +++
 title = "略论函数式编程"
 date = "2015-02-20"
-slug = "2015/02/20/functional-programming-in-underscore-dot-js"
+slug = "2015/02/functional-programming-in-underscore-dot-js"
 Categories = ["functional programming", "effective"]
 +++
 

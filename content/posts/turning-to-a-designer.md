@@ -1,7 +1,7 @@
 +++
 title = "成为设计师"
 date = "2013-03-26"
-slug = "2013/03/26/turning-to-a-designer"
+slug = "2013/03/turning-to-a-designer"
 Categories = ["thoughtworks", "learn", "UX", "Design"]
 +++
 

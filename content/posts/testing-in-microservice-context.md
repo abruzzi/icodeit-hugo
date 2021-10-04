@@ -1,7 +1,7 @@
 +++
 title = "微服务中的测试"
 date = "2016-10-01"
-slug = "2016/10/01/testing-in-microservice-context"
+slug = "2016/10/testing-in-microservice-context"
 Categories = [" Testing", " Microservice", " Automation"]
 +++
 ## 新的挑战

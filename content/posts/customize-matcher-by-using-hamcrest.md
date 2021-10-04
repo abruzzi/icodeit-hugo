@@ -1,7 +1,7 @@
 +++
 title = "Hamcrest里的自定义匹配器"
 date = "2012-10-15"
-slug = "2012/10/15/customize-matcher-by-using-hamcrest"
+slug = "2012/10/customize-matcher-by-using-hamcrest"
 Categories = []
 +++
 Although we can write tests all by the default matchers that hamcrest provided, but somehow we need the code to be more readable, and maintainable, so it's a good way to try customize our own matchers.

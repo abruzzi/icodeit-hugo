@@ -1,7 +1,7 @@
 +++
 title = "新生儿日常记录的可视化 - 星空图"
 date = "2017-02-22"
-slug = "2017/02/22/data-visualization-from-baby"
+slug = "2017/02/data-visualization-from-baby"
 Categories = ["data", "visualization", "infovis", "xinxin"]
 +++
 

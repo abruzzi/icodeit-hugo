@@ -1,7 +1,7 @@
 +++
 title = "如何总结你的上一个项目"
 date = "2016-01-05"
-slug = "2016/01/05/how-to-summarize-privious-project"
+slug = "2016/01/how-to-summarize-privious-project"
 Categories = [" ThoughtWorks", " Life"]
 +++
 # 下项目之后

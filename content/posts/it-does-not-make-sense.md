@@ -1,7 +1,7 @@
 ---
 title: "无意识偏见即其他"
 date: 2019-06-28
-slug: "2019/06/28/it-does-not-make-sense"
+slug: "2019/06/it-does-not-make-sense"
 categories: ["bias", "stereotypes"]
 ---
 

@@ -1,7 +1,7 @@
 +++
 title = "给新人程序员的一些建议"
 date = "2017-07-25"
-slug = "2017/07/25/tips-for-newbies"
+slug = "2017/07/tips-for-newbies"
 Categories = ["Programmer", "Training", "ThoughtWorks"]
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = "jQuery插件101"
 date = "2013-07-20"
-slug = "2013/07/20/write-a-jquery-plugin-step-by-step"
+slug = "2013/07/write-a-jquery-plugin-step-by-step"
 Categories = ["JavaScript", "Frontend"]
 +++
 

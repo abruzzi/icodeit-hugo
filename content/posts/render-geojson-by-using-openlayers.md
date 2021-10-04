@@ -1,7 +1,7 @@
 +++
 title = "使用Openlayers可视化GeoJSON数据"
 date = "2014-04-15"
-slug = "2014/04/15/render-geojson-by-using-openlayers"
+slug = "2014/04/render-geojson-by-using-openlayers"
 Categories = ["gis", "JavaScript"]
 +++
 

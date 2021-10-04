@@ -1,7 +1,7 @@
 +++
 title = "如何写一本书"
 date = "2015-08-04"
-slug = "2015/08/04/how-to-write-a-book"
+slug = "2015/08/how-to-write-a-book"
 Categories = ["book", "lightweight"]
 +++
 

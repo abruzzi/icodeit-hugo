@@ -1,7 +1,7 @@
 +++
 title = "使用Grape快速开发API"
 date = "2013-08-04"
-slug = "2013/08/04/quick-api-development-by-grape"
+slug = "2013/08/quick-api-development-by-grape"
 Categories = ["lightweight", "ruby", "grape"]
 +++
 

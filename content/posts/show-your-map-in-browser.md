@@ -1,7 +1,7 @@
 +++
 title = "可视化你的足迹"
 date = "2015-09-20"
-slug = "2015/09/20/show-your-map-in-browser"
+slug = "2015/09/show-your-map-in-browser"
 Categories = ["GIS", "Data", "Visualization"]
 +++
 
