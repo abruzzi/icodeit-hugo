@@ -1,7 +1,9 @@
+---
 title: "给你点颜色看看 - 下篇"
 date: 2021-08-26
 slug: "2021/08/colour-theory-for-dev-part-2"
 categories: ["colour", "design", "ux"]
+---
 
 # 给你点颜色看看 - 下篇
 
