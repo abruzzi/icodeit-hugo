@@ -1,5 +1,5 @@
 baseURL: https://icodeit.org
-title: I Code It - code and life
+title: I Code It
 paginate: 5
 theme: PaperMod
 
@@ -15,7 +15,7 @@ permalinks:
   posts: :slug
 
 minify:
-    disableXML: true
+  disableXML: true
 
 languages:
   en:
@@ -45,43 +45,44 @@ outputs:
 disqusShortname: icodeit
 
 params:
-    env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "I Code It - code and life - https://icodeit.org"
-    author: 邱俊涛 | Juntao Qiu
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  description: "I Code It - code and life - https://icodeit.org"
+  author: 邱俊涛 | Juntao Qiu
 
-    defaultTheme: auto
-    # disableThemeToggle: true
-    ShowShareButtons: true
-    ShowReadingTime: true
-    # disableSpecial1stPost: true
-    displayFullLangName: true
-    ShowPostNavLinks: true
-    ShowBreadCrumbs: true
-    ShowCodeCopyButtons: true
-    ShowToc: true
+  defaultTheme: auto
+  # disableThemeToggle: true
+  ShowShareButtons: true
+  ShowReadingTime: true
+  # disableSpecial1stPost: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowToc: true
 
-    comments: true
+  comments: true
 
-    homeInfoParams:
-        Title: I Code It
-        Content: code and life
+  homeInfoParams:
+    Title: Code and Life
+    Content: >
+      - 这里记录了一些我关于技术的总结。如你所见，这些总结通常包含很多个人的偏见和谬误，不过这些偏见和谬误也正是**学习**的一部分。大约由于工作内容的原因，这里汇集了软件开发方法论，自动化测试，代码整洁等比较抽象的内容，又有诸如测试驱动开发，重构等等理论与实践并重的内容，以及一些零散的工具使用介绍之类。
 
-    socialIcons:
-        - name: github
-          url: "https://github.com/abruzzi"
-        - name: linkedin
-          url: "https://www.linkedin.com/in/juntao-qiu-b865501b/"
-        - name: medium
-          url: "https://juntao-qiu.medium.com/"
-        - name: RsS
-          url: "index.xml"
+      - 2018年之后，我的很多技术总结也会以英文发布在[medium](https://juntao-qiu.medium.com/)上，不过我通常也会随后将其翻译成中文并记录在这里。
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/abruzzi"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/juntao-qiu-b865501b/"
+    - name: medium
+      url: "https://juntao-qiu.medium.com/"
 
 taxonomies:
-    category: categories
-    tag: tags
-    series: series
+  category: categories
+  tag: tags
+  series: series
 
 markup:
-    goldmark:
-        renderer:
-            unsafe: true
+  goldmark:
+    renderer:
+      unsafe: true
