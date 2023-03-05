@@ -4,7 +4,10 @@ date = "2013-01-05"
 slug = "2013/01/basic-digits-recognization"
 Categories = ["AI", "ThoughtWorks"]
 Tags = []
+description = "基于OpenCV的数字识别的一个例子"
 +++
+
+## 
 
 最终的效果图是这样的：
 

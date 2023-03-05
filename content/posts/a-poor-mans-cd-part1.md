@@ -3,6 +3,7 @@ title = "穷人的持续交付 - 上"
 date = "2016-01-09"
 slug = "2016/01/a-poor-mans-cd-part1"
 Categories = ["CD", "ThoughtWorks"]
+description = "本文将使用一些免费的服务来为你的项目搭建`持续交付`平台，这些服务包括,持续集成环境,持续部署环境和服务端应用托管"
 +++
 
 # 服务器端应用的持续交付

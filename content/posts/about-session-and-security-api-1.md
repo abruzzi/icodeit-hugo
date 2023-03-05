@@ -3,6 +3,7 @@ title = "会话与API安全 - 上"
 date = "2016-05-10"
 slug = "2016/05/about-session-and-security-api-1"
 Categories = ["Spring", "Security", "RESTful"]
+description = "在大部分时候，我们讨论API的设计时，会从功能的角度出发定义出完善的，易用的API。而很多时候，非功能需求如安全需求则会在很晚才加入考虑。而往往这部分会涉及很多额外的工作量，比如与外部的SSO集成，Token机制等等"
 +++
 
 ## 保护你的API

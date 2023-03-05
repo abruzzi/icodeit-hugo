@@ -3,6 +3,7 @@ title = "一个神奇的Bug"
 date = "2014-09-04"
 slug = "2014/09/a-bug-about-time"
 Categories = ["JavaScript", "Bug"]
+description = "目前项目是一个非常传统的Web应用，其中有个页面需要用户填写自己的个人信息，包括姓名和出生日期。"
 +++
 ### 一个神奇的Bug
 

@@ -3,8 +3,11 @@ title = "CSS中的Before和After伪元素"
 date = "2013-05-16"
 slug = "2013/05/before-and-after-selector-in-css"
 Categories = ["css", "web"]
+description = "使用CSS的before和after伪元素实现三角箭头"
 +++
-###before和after伪元素
+
+### before和after伪元素
+
 所谓伪元素，可以理解为浏览器为某元素附加的元素（根据名字，附加在这个元素之前/之后）。用来完成特定的效果，before/after需要和content属性一起使用：
 
 ```
@@ -18,7 +21,9 @@ Categories = ["css", "web"]
 
 通过使用before/after伪元素，可以做一些很有意思的效果。[这里](http://css-tricks.com/pseudo-element-roundup/)有一些有意思的示例。
 
-###四个三角形
+
+### 四个三角形
+
 页面上经常会遇到小三角形这种视觉元素，比如表示一个可以**打开/关闭**的开关（将不会频繁使用的元素隐藏起来，点击可以展开/收起），或者一个模拟消息盒子（纯CSS实现），最早的做法是使用一个小的图片来完成，但是这个事实上可以通过纯CSS来实现。
 
 原理是利用block元素的`border`属性，当`border`的值很小的时候，`border`之间的连接处并无异常，但是当`border`较大，而元素本身的尺寸小于`border`自身时，则每一个`border`都会呈现为梯形，而当元素的`width`和`height`都为0时，就会看到一个正方形，而每个边都变成了一个三角形：
