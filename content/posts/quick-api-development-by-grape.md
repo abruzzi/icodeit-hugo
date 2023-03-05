@@ -5,7 +5,7 @@ slug = "2013/08/quick-api-development-by-grape"
 Categories = ["lightweight", "ruby", "grape"]
 +++
 
-### Grape简介
+## Grape简介
 
 [Grape](http://intridea.github.io/grape)是一个基于Rack的非常轻量级的框架，用于快速的开发API。一般来说，Rails对于单独的API来说，太过于重量级；而Sinatra虽然足够小巧，但是又没有为开发API提供足够的默认支持（如果从可控制性，灵活性上来说，Sinatra可能更好一些，但是如果有专门的更好用的工具，为什么不用呢？）。
 
@@ -21,9 +21,9 @@ $ gem install grape
 gem 'grape'
 ```
 
-### 为既有系统添加API
+## 为既有系统添加API
 
-#### 简单一试
+### 简单一试
 
 之前的一篇介绍[ActiveRecord在既有系统中使用](http://icodeit.org/2013/05/using-active-record-as-a-standalone-orm/)的文章中，我使用ActiveRecord为既有的数据库visitor中的三个表(visitor, listGroup, listGroupItem)建立了ruby对应的模型。现在我们可以为这些模型包装一组API，以方便客户端（消费者）可以通过web来访问。
 
@@ -63,7 +63,7 @@ url则相应地变为:
 http://localhost:9292/mysys/visitors/
 ```
 
-#### 处理参数
+### 处理参数
 
 在对参数的处理上，grape也非常灵活，比如接上例，我们想要获取某一个具体的用户的信息：
 
@@ -87,7 +87,7 @@ end
 
 params中要求，需要一个类型为String的参数visitor_uid。然后在handler中，通过params来引用这个参数的值。
 
-#### 助手函数(Helper)
+### 助手函数(Helper)
 
 Grape允许开发者将编解码，权限校验等等的通用的操作分离出来，放入助手函数，这些Helper可以被所有的API使用:
 
@@ -121,7 +121,7 @@ post do
 end
 ```
 
-### 对API进行测试
+## 对API进行测试
 
 通过Web测试API有非常多的方式，比如通过浏览器的插件(POSTMan)，RSpec，但是我最喜欢，也是最轻便的方式是通过命令行工具curl：
 

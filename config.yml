@@ -65,17 +65,21 @@ params:
   homeInfoParams:
     Title: Code and Life
     Content: >
-      - 这里记录了一些我关于技术的总结。如你所见，这些总结通常包含很多个人的偏见和谬误，不过这些偏见和谬误也正是**学习**的一部分。大约由于工作内容的原因，这里汇集了软件开发方法论，自动化测试，代码整洁等比较抽象的内容，又有诸如测试驱动开发，重构等等理论与实践并重的内容，以及一些零散的工具使用介绍之类。
-
+      - 你好，我是邱俊涛。我是一名[程序员](https://github.com/abruzzi)，一个[技术作家](https://leanpub.com/u/juntao)，也是一个[创作者](https://www.youtube.com/@icodeit.juntao)。我享受写代码，尤其享受重构代码 -- 一点点的剔除坏掉的，晦涩的片段，最终变成容易读懂，容易修改的代码。我尤其喜欢将这种化繁为简的技术教给别人的感觉。
+      
       - 2018年之后，我的很多技术总结也会以英文发布在[medium](https://juntao-qiu.medium.com/)上，不过我通常也会随后将其翻译成中文并记录在这里。
 
   socialIcons:
     - name: github
       url: "https://github.com/abruzzi"
-    - name: linkedin
-      url: "https://www.linkedin.com/in/juntao-qiu-b865501b/"
+    - name: youtube
+      url: "https://www.youtube.com/@icodeit.juntao"      
     - name: medium
       url: "https://juntao-qiu.medium.com/"
+    - name: twitter
+      url: "https://twitter.com/juntaoqiu"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/juntao-qiu-b865501b/"      
 
 taxonomies:
   category: categories

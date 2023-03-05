@@ -3,6 +3,7 @@ title: "前端性能调优心法"
 date: 2021-06-16
 slug: "2021/06/frontend-performance-tuning-tips"
 categories: ["composition", "performance", "design"]
+description: "性能问题是软件开发中的常见问题，我们在几乎每个项目在某个时期（往往是在后期快要交付的时候，或者已经上线以后收到用户反馈）都或多或少会遇到。这篇文章想要从流程方面和具体的技术细节上对软件性能优化上遇到的问题做一些总结和分类，以方便在后续类似的场景下可以提供给开发者一个参考。"
 ---
 
 ## 前言

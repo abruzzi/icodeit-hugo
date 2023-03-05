@@ -3,6 +3,7 @@ title: "组件设计之组合原则"
 date: 2021-05-01
 slug: "2021/05/composition-in-react"
 categories: ["composition", "refactor", "performance", "design"]
+description: "表面上看起来这个优化工作包括两大部分：性能优化和结构重整。不过经过这几个月对十多个组件的重构之后，我们发现这两部分工作在很大程度上是同一件事的两个方面：好的设计往往可以带来更好的性能，反之亦然."
 ---
 
 ## 前言

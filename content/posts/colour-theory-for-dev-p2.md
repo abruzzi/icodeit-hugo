@@ -3,6 +3,7 @@ title: "给你点颜色看看 - 下篇"
 date: 2021-08-26
 slug: "2021/08/colour-theory-for-dev-part-2"
 categories: ["colour", "design", "ux"]
+description: "在这篇文章中，我们从实践层面来讨论如何搭配颜色，并在实际场景中正确运用。"
 ---
 
 # 给你点颜色看看 - 下篇
