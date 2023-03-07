@@ -67,9 +67,8 @@ params:
   homeInfoParams:
     Title: Code and Life
     Content: >
-      - 你好，我是邱俊涛。我是一名[程序员](https://github.com/abruzzi)，一个[技术作家](https://leanpub.com/u/juntao)，也是一个[创作者](https://www.youtube.com/@icodeit.juntao)。我享受写代码，尤其享受重构代码 -- 一点点的剔除坏掉的，晦涩的片段，最终变成容易读懂，容易修改的代码。我尤其喜欢将这种化繁为简的技术教给别人的感觉。
-      
-      - 2018年之后，我的很多技术总结也会以英文发布在[medium](https://juntao-qiu.medium.com/)上，不过我通常也会随后将其翻译成中文并记录在这里。
+      你好，我是邱俊涛。我是一名[程序员](https://github.com/abruzzi)，一个[技术作家](https://leanpub.com/u/juntao)，也是一个[创作者](https://www.youtube.com/@icodeit.juntao)。我享受写代码，尤其享受重构代码 -- 一点点的剔除坏掉的，晦涩的片段，最终变成容易读懂，容易修改的代码。我尤其喜欢将这种化繁为简的技术教给别人的感觉。
+      2018年之后，我的很多技术总结也会以英文发布在[medium](https://juntao-qiu.medium.com/)上，不过我通常也会随后将其翻译成中文并记录在这里。
 
   socialIcons:
     - name: github
