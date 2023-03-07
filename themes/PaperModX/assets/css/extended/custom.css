@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500&display=swap');
+
+:root {
+    --monospace: "Fira Code", "Lucida Console", Monaco, "Consolas", monospace;    
+    --link-color: var(--primary);
+    --link-hover-color: #e23e57;
+    --link-underline-shadow: 0 1px 0 var(--link-color);
+    --link-hover-underline-color: #e23e57;
+    --link-hover-underline-shadow: 0 2px 0 var(--link-hover-underline-color);
+}
+
+.dark {
+    --link-hover-color: #e23e57;
+    --link-hover-underline-color: #e23e57;
+}
+
+.first-entry .entry-content {
+    color: var(--secondary);
+}
