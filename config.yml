@@ -1,7 +1,7 @@
 baseURL: https://icodeit.org
 title: I Code It
 paginate: 5
-theme: PaperMod
+theme: PaperModX
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -46,9 +46,10 @@ disqusShortname: icodeit
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  TocSide: 'left'
   description: "I Code It - code and life - https://icodeit.org"
   author: 邱俊涛 | Juntao Qiu
-
+  keywords: [Blog, Clean Code, Refactoring, Development, Software]
   defaultTheme: auto
   # disableThemeToggle: true
   ShowShareButtons: true
@@ -59,6 +60,7 @@ params:
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   ShowToc: true
+  tocopen: true
 
   comments: true
 
@@ -87,6 +89,8 @@ taxonomies:
   series: series
 
 markup:
+  highlight:
+      noClasses: false
   goldmark:
     renderer:
       unsafe: true
