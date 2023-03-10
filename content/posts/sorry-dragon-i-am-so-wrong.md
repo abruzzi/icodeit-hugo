@@ -4,6 +4,7 @@ date: 2023-03-05T12:12:29+11:00
 slug: "2023/03/sorry-dragon-i-am-so-wrong"
 Categories: ["ChatGPT", "AI", "INVEST"]
 description: "ChatGPT或者大部分现有的AI工具，很大程度上无法独立的完成创造性的工作。但是如果反过来，我们提供prompt，然后review这些工具生成的内容，则可以成十倍的提高我们的效率。不过和其他很多新工具的发明一样，它在带来挑战的同时也带来的机遇。在我看来，学习并最大化发挥AI的价值可能会帮助你比以前刚快的脱颖而出。"
+thumbnail: "/images/2023/03/wechat-moment.png"
 ---
 
 ## 背景
